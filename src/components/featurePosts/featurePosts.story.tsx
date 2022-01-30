@@ -15,9 +15,9 @@ const img = {
 };
 
 const sample: PostSnippet = {
-  title: "Boost your conversion rate",
+  title: "Suishow Engineer Blog",
   summary:
-    "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto accusantium praesentium eius, ut atque fuga culpa, similique sequi cum eos quis dolorum.",
+    "ブロックチェーンやメタバース関連のエンジニア向け情報ポータルサイトです。",
   img,
   imgAlt: "",
   href: "#",
