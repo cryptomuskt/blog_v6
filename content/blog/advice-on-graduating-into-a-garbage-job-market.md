@@ -3,7 +3,7 @@ template: blog-post
 title: Openseaのハッキングの原因について色々と考察してみる
 publishedDate: 2020-08-13T12:00:28.345Z
 description: NFT MarketPlaceを運営する身としてはとても気になる話題です。ざっくりと調査したのでまとめました。
-featured: true
+featured: false
 img: ../../static/images/tables.jpeg
 imgAlt: Get a table?
 tags:
